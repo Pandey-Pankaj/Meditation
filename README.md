@@ -1,5 +1,5 @@
 # Meditation
-This contains all the resources related to meditation research including neuroscience, cognitive science, computational, and machine learning
+This contains all the resources related to meditation research including neuroscience, cognitive science, computational, signal processing and machine and deep learning.
 
 
 # Books
