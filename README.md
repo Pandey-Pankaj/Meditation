@@ -8,7 +8,7 @@ This contains all the resources related to meditation research including neurosc
 
 ### [Datasets](Datasets.md)
 
-### [Neural Markers](\neural_markers)
+### [Neural Markers](neural_markers)
 
 ### [NeuroTechnology Products](NeuroTechnology.md)
 
