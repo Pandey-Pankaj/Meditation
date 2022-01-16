@@ -9,3 +9,14 @@ This contains all the resources related to meditation research including neurosc
 ### [Datasets](Datasets.md)
 
 ### [NeuroTechnology Products](NeuroTechnology.md)
+
+
+
+
+
+
+
+
+
+#### Collaborators:
+Pragati Gupta
