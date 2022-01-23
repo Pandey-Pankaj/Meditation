@@ -22,5 +22,4 @@ This contains all the resources related to meditation research including neurosc
 
 
 
-#### Contributors:
-Pragati Gupta
+
