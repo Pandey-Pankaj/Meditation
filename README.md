@@ -2,7 +2,7 @@
 This contains all the resources related to meditation research including neuroscience, cognitive science, philosophy, computational, signal processing and machine and deep learning.
 
 
-Meditation techniques are broadly divided into three categories. 
+Meditation techniques are broadly divided into four categories. 
 
 | Meditation Traditions| 
 | ------------- | 
