@@ -1,0 +1,1 @@
+1. Kozasa, E. H., Sato, J. R., Lacerda, S. S., Barreiros, M. A., Radvany, J., Russell, T. A., ... & Amaro Jr, E. (2012). Meditation training increases brain efficiency in an attention task. Neuroimage, 59(1), 745-749.
