@@ -7,3 +7,5 @@
 5. [EEG alpha-theta dynamics during mind wandering in the context of breath focus meditation](https://osf.io/b6rn9/)
 6. [Increased Gamma Brainwave Amplitude Compared to Control in Three Different Meditation Traditions:Vipassana, Himalayan Yoga and Isha Shoonya](http://doi.org/10.5281/zenodo.57911)
 7. [Contrasting Electroencephalography-Derived Entropy and Neural Oscillations With Highly Skilled Meditators](https://github.com/JacobHYoung/Contrasting-EEG-Derived-Entropy-and-Neural-Oscillations-During-Six-Meditation-Practices)
+8. [The Effect of Buddhism Derived Loving Kindness Meditation on Modulating EEG: Long-term and Short-term Effect](https://openneuro.org/datasets/ds003816/versions/1.0.1)
+9. [EEG data from an auditory oddball task](https://openneuro.org/datasets/ds003061/versions/1.1.0)
