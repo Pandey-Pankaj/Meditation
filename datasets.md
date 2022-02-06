@@ -1,6 +1,6 @@
-# Publicly available Datasets on meditation
+# Publicly available Datasets on meditation (EEG)
 
-### Mindwandering
+### Mindwandering 
 * [Expert and Non-Expert Himalayan Yoga Meditators(Meditation and Mindwandering)](https://openneuro.org/datasets/ds001787/versions/1.0.3)
 * [EEG alpha-theta dynamics during mind wandering in the context of breath focus meditation](https://osf.io/b6rn9/)
 * [Contrasting Electroencephalography-Derived Entropy and Neural Oscillations With Highly Skilled Meditators](https://github.com/JacobHYoung/Contrasting-EEG-Derived-Entropy-and-Neural-Oscillations-During-Six-Meditation-Practices)
