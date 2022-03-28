@@ -5,3 +5,4 @@
 3. [Studying the experience of meditation through Micro-phenomenology](https://www.sciencedirect.com/science/article/pii/S2352250X18301908)
 4. [A study of structure of phenomenology of consciousness in meditative and non-meditative states](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1070.8019&rep=rep1&type=pdf)
 5. [Phenomenological Method and Meditation](https://www.atpweb.org/jtparchive/trps-26-94-01-037.pdf)
+6. [Drawing the experience dynamics of meditation](https://www.biorxiv.org/content/10.1101/2022.03.04.482237v1.full.pdf) 
